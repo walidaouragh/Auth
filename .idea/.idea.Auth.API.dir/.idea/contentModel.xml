@@ -4,7 +4,7 @@
     <e p="C:\Users\waouragh\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
     <e p="C:\Users\waouragh\.Rider2019.1\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\waouragh\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\waouragh\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.02" t="ExcludeRecursive" />
+    <e p="C:\Users\waouragh\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.01" t="ExcludeRecursive" />
     <e p="C:\Users\waouragh\Projects\Auth\Auth.API" t="IncludeFlat" />
   </component>
 </project>
