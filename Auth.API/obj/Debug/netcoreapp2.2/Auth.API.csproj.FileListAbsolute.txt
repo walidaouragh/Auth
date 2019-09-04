@@ -1,0 +1,15 @@
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\bin\Debug\netcoreapp2.2\Auth.API.dll.config
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\bin\Debug\netcoreapp2.2\Auth.API.deps.json
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\bin\Debug\netcoreapp2.2\Auth.API.runtimeconfig.json
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\bin\Debug\netcoreapp2.2\Auth.API.runtimeconfig.dev.json
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\bin\Debug\netcoreapp2.2\Auth.API.dll
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\bin\Debug\netcoreapp2.2\Auth.API.pdb
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.csprojAssemblyReference.cache
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.csproj.CoreCompileInputs.cache
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.RazorAssemblyInfo.cache
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.RazorAssemblyInfo.cs
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.AssemblyInfoInputs.cache
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.AssemblyInfo.cs
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.RazorTargetAssemblyInfo.cache
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.dll
+C:\Users\waouragh\Projects\Auth\Auth.API\Auth.API\obj\Debug\netcoreapp2.2\Auth.API.pdb
